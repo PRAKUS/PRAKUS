@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **react htmlcss javascript**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
 
 - 📫 How to reach me **pramodthapa2321@gmail.com**
 
